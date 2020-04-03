@@ -1,0 +1,60 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 15px;
+}
+
+h1 {
+    color: rgb(32, 32, 32);
+    font-weight: 900;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 20px;
+    padding: 2px;
+}
+
+#slogan {
+    font-style: italic;
+    text-align: right;
+    font-size: 40px;
+    background-color: #000;
+    color: #fff;
+    background-image: url("urbex.jpeg");
+}
+
+img {
+    width: 100%;
+}
+
+.portrait {
+    height: 400px;
+    width: auto;
+    align-items: left;
+}
+
+p, ul {
+    background-color: rgb(85, 85, 85);
+    color: #fff;
+    padding: 15px;
+    margin: 15px 0;
+    font-size: 35px;
+    font-weight: 300;
+    width: 100%;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+div {
+    text-align: center;
+}
